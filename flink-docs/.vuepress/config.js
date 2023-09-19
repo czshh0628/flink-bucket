@@ -94,11 +94,9 @@ module.exports = {
         "sidebar": {
             "/blogs/第1章 Flink概述/": [
                 "",
-                "1.1 Flink是什么",
-                "1.2 Flink特点",
-                "1.3 Flink vs SparkStreaming",
-                "1.4 Flink的应用场景",
-                "1.5 Flink分层API",
+                "1.1 Flink特点",
+                "1.2 流处理",
+                "1.3 Flink分层API",
             ],
             "/blogs/第2章 Flink 快速上手/": [
                 "",
