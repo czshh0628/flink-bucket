@@ -11,6 +11,7 @@
     <modules>
         <module>flink-datastream</module>
         <module>flink-tablesql</module>
+        <module>flink-quickstart</module>
     </modules>
 
     <properties>
