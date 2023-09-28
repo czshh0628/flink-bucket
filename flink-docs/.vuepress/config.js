@@ -177,26 +177,26 @@ module.exports = {
             width: '300px',
             title: '公告',
             body: [
-                {
-                    type: 'title',
-                    content: '欢迎加入QQ交流群 🎉🎉🎉',
-                    style: 'text-aligin: center;'
-                },
-                {
-                    type: 'text',
-                    content: 'QQ：760620329'
-                },
+                // {
+                //     type: 'title',
+                //     content: '欢迎加入QQ交流群 🎉🎉🎉',
+                //     style: 'text-aligin: center;'
+                // },
+                // {
+                //     type: 'text',
+                //     content: 'QQ：760620329'
+                // },
                 {
                     type: 'text',
                     content: '基于Flink-1.17版本的最新使用手册'
                 }
             ],
             footer: [
-                {
-                    type: 'button',
-                    text: '打赏',
-                    link: '/flink-bucket/blogs/other/donate'
-                }
+                // {
+                //     type: 'button',
+                //     text: '打赏',
+                //     link: '/flink-bucket/blogs/other/donate'
+                // }
             ]
         }]
     ]
